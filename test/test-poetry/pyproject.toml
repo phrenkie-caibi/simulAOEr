@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "poetry-test"
 version = "0.1.0"
-description = ""
-authors = ["phrenkie-caibi <filipzdarilek123@gmail.com>"]
+description = "lalala123 lmao XD"
+authors = ["phrenkie-caibi <joe_nuts@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
